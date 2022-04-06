@@ -1,0 +1,36 @@
+header{
+    background-color: grey;
+    padding:10px;
+    margin: 0px 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.searchBox{
+    margin:10px;
+    float: right;
+    width:20%;
+}
+
+.displayWeather{
+    width:70%;
+    display: inline-block;
+    margin: 10px;
+}
+
+.displayWeather div {
+    height: 300px;
+}
+
+#currentWeather{
+    border: 1px solid black; 
+}
+#cityname{
+    width:100%;
+}
+
+.card-body{
+    margin: 10px 0px;
+}
